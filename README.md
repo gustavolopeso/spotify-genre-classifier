@@ -6,4 +6,4 @@ In addition to the basic song metadata like release date, popularity and duratio
 
 The objective of this project is, at first, to create a classifier that can distinguish tracks between brazilian rap and indie genres based on the Audio Features available in Spotify API.
 
-The project is written in Python and uses the libraries numpy, pandas, sklearn, matplotlib and seaborn. It addresses the following steps: ETL, EDA, Model Selection and Performance Evaluation.
+The project is written in Python and uses the libraries spotipy, numpy, pandas, sklearn, matplotlib and seaborn. It addresses the following steps: ETL, EDA, Model Selection and Performance Evaluation.
